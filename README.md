@@ -1,5 +1,3 @@
-WARPLAY v1.0.0 
-
 Minimalist video player for streaming playback via URLs, YouTube support, quality selection, compact overlay, no unnecessary features.
 
 Main features:
